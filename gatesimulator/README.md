@@ -25,6 +25,5 @@
 
 1. Install **Visual Studio** with the **Desktop Development with C++** workload.  
 2. Install **raylib** and configure it in Visual Studio (include directories, library directories, and linker input).  
-3. Clone this repository:  
-   ```powershell
-   git clone https://github.com/aaaaaaayush-no/TESTSIMULAtor.git
+3. Clone this repository
+

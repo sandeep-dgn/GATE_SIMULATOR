@@ -1,0 +1,13 @@
+﻿  Gate.cpp
+C:\Users\sandeep\OneDrive\Desktop\gatesimulator\TESTSIMULAtor\Gate.cpp(167,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sandeep\OneDrive\Desktop\gatesimulator\TESTSIMULAtor\Gate.cpp(178,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sandeep\OneDrive\Desktop\gatesimulator\TESTSIMULAtor\Gate.cpp(178,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sandeep\OneDrive\Desktop\gatesimulator\TESTSIMULAtor\Gate.cpp(188,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sandeep\OneDrive\Desktop\gatesimulator\TESTSIMULAtor\Gate.cpp(188,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Wire.cpp
+  WiringSystem.cpp
+  Generating Code...
+  TESTSIMULAtor.vcxproj -> C:\Users\sandeep\OneDrive\Desktop\gatesimulator\x64\Debug\TESTSIMULAtor.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
